@@ -12,3 +12,7 @@ In Java, a collection is a group of objects or elements, similar to an array, bu
 - Queue - An ordered collection of elements designed to hold elements prior to processing.
 
 - Map - A collection of key-value pairs, where each key is unique.
+
+Each type of collection has its own set of methods and properties for adding, removing, and accessing elements.
+
+Some common classes in the Java Collections Framework include:
