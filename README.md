@@ -24,3 +24,5 @@ Each type of collection has its own set of methods and properties for adding, re
 - LinkedList - A doubly-linked list implementation of the List interface.
 
 - HashMap - An implementation of the Map interface that uses a hash table to store key-value pairs.
+
+Using collections in Java allows for easier and more efficient manipulation of groups of objects or elements, making it an essential part of Java programming.
