@@ -17,10 +17,10 @@ Each type of collection has its own set of methods and properties for adding, re
 
 #### Some common classes in the Java Collections Framework include:
 
--- ArrayList - A dynamic array implementation of the List interface.
+- ArrayList - A dynamic array implementation of the List interface.
 
--- HashSet - An implementation of the Set interface that uses a hash table to store elements.
+- HashSet - An implementation of the Set interface that uses a hash table to store elements.
 
--- LinkedList - A doubly-linked list implementation of the List interface.
+- LinkedList - A doubly-linked list implementation of the List interface.
 
--- HashMap - An implementation of the Map interface that uses a hash table to store key-value pairs.
+- HashMap - An implementation of the Map interface that uses a hash table to store key-value pairs.
