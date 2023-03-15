@@ -3,7 +3,7 @@
 
 In Java, a collection is a group of objects or elements, similar to an array, but with additional functionality and flexibility. Collections are part of the Java Collections Framework, which provides a set of interfaces and classes to represent and manipulate collections of objects.
 
-### There are several types of collections in Java, 
+### There are several types of collections in Java. 
 
 - List - An ordered collection of elements where duplicates are allowed.
 
