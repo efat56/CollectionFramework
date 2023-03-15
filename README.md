@@ -16,7 +16,7 @@ Collections are part of the Java Collections Framework, which provides a set of 
 
 Each type of collection has its own set of methods and properties for adding, removing, and accessing elements.
 
-#### Some common classes in the Java Collections Framework include:
+#### Some common classes in the Java Collections Framework include: 
 
 - ArrayList - A dynamic array implementation of the List interface.
 
