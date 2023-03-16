@@ -84,3 +84,7 @@ public class VectorExample {
 ```
 ## Hashing in Java
 
+</n>
+Hashing in Java is a technique used to map any large amount of data to a fixed-size values. In Java, the hashcode() method is used to generate a hash value that represents an object. This hash value can be used to quickly compare objects and optimize algorithms for searching, sorting, and data retrieval. The hashCode() method is implemented in the Object class and can be overridden by other classes to provide a custom implementation that meets their needs. Hashing is commonly used in data structures like HashMaps and HashSet to store and retrieve data efficiently.
+</n>
+
