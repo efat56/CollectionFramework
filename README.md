@@ -102,6 +102,7 @@ HashMap and LinkedHashMap are two implementations of the Map interface in Java t
 
 In summary, if you need to maintain the insertion order and efficient iteration, use LinkedHashMap. If you don't need to maintain the insertion order, use HashMap for better performance.
 </n>
+## Class class In Java -:
 </n> 
 In Java, the Class class is a special class that represents the metadata of a class at runtime. It provides a way to inspect and manipulate the properties of a class, such as its fields, methods, and constructors.
 
