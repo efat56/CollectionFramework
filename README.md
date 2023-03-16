@@ -82,3 +82,5 @@ public class VectorExample {
    }
 }
 ```
+## Hashing in Java
+
