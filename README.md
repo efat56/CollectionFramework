@@ -98,7 +98,7 @@ HashMap and LinkedHashMap are two implementations of the Map interface in Java t
 
 **Iteration:** LinkedHashMap is suitable for scenarios where the iteration order needs to be preserved, such as iterating in the order of insertion. HashMap is suitable for scenarios where the iteration order is not important.
 
-Null values and keys: Both HashMap and LinkedHashMap allow null values, but only HashMap allows null keys.
+**Null values and keys:** Both HashMap and LinkedHashMap allow null values, but only HashMap allows null keys.
 
 In summary, if you need to maintain the insertion order and efficient iteration, use LinkedHashMap. If you don't need to maintain the insertion order, use HashMap for better performance.
 </n>
