@@ -29,6 +29,8 @@ Each type of collection has its own set of methods and properties for adding, re
 
 Using collections in Java allows for easier and more efficient manipulation of groups of objects or elements, making it an essential part of Java programming.
 
+
+
 ## Difference between Array List and Vector
 
 
