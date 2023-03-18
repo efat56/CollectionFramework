@@ -130,4 +130,6 @@ Some of the important methods provided by the Class class in Java are:
 Overall, the Class class is an important part of the Java language, providing a powerful mechanism for inspecting and manipulating the properties of classes at runtime.
 </n>
 
-## Set And Its Type in Collection Framework
+## Set And Its Type in Collection Framework -:
+
+In the Java Collection framework, a Set is a collection that contains unique elements, which means that duplicates are not allowed. The Set interface is implemented by several classes in Java, including HashSet, TreeSet, and LinkedHashSet.
