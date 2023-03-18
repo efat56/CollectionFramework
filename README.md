@@ -133,3 +133,10 @@ Overall, the Class class is an important part of the Java language, providing a 
 ## Set And Its Type in Collection Framework -:
 
 In the Java Collection framework, a Set is a collection that contains unique elements, which means that duplicates are not allowed. The Set interface is implemented by several classes in Java, including HashSet, TreeSet, and LinkedHashSet.
+
+**HashSet:**
+</n>
+It uses a hash table to store the elements.
+It provides constant-time performance for adding, removing, and checking for the presence of elements.
+The order of elements is not guaranteed.
+</n>
