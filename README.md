@@ -160,3 +160,10 @@ public class HashSetExample {
 }
 
 ```
+
+**TreeSet:**
+</n>
+It stores the elements in a sorted tree structure.
+It provides log(n) time complexity for adding, removing, and checking for the presence of elements.
+The elements are stored in ascending order.
+</n>
