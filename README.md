@@ -246,3 +246,10 @@ public class Example {
 ```
 
 ### Output
+
+```java
+Bob's age is 30
+Alice is 25 years old
+Bob is 30 years old
+Charlie is 35 years old
+```
