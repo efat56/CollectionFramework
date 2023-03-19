@@ -6,6 +6,7 @@ Collections are part of the Java Collections Framework, which provides a set of 
 
 ### There are several types of collections in Java. 
 
+
 - List - An ordered collection of elements where duplicates are allowed.
 
 - Set - An unordered collection of unique elements.
