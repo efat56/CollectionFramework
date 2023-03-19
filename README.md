@@ -253,3 +253,5 @@ Alice is 25 years old
 Bob is 30 years old
 Charlie is 35 years old
 ```
+
+In this example, we create a HashMap that maps String keys to Integer values. We then add three key-value pairs to the map using the put() method, retrieve the value associated with the "Bob" key using the get() method, and iterate over all the key-value pairs in the map using a for-each loop and the entrySet() method.
