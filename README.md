@@ -216,3 +216,31 @@ public class LinkedHashSetExample {
 In Java, a map is an interface in the java.util package that represents a collection of key-value pairs, where each key is unique. There are several classes that implement the Map interface in Java, including HashMap, TreeMap, LinkedHashMap, and ConcurrentHashMap.
 
 Here's an example of how to use a HashMap to create a map in Java:
+
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+public class Example {
+    public static void main(String[] args) {
+        // create a new HashMap
+        Map<String, Integer> map = new HashMap<>();
+
+        // add some key-value pairs to the map
+        map.put("Alice", 25);
+        map.put("Bob", 30);
+        map.put("Charlie", 35);
+
+        // retrieve a value from the map using a key
+        int age = map.get("Bob");
+        System.out.println("Bob's age is " + age);
+
+        // iterate over the key-value pairs in the map
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            String name = entry.getKey();
+            int value = entry.getValue();
+            System.out.println(name + " is " + value + " years old");
+        }
+    }
+}
+```
