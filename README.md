@@ -271,3 +271,5 @@ LinkedHashMap: A linked hash map is a map implementation that maintains the inse
 
 WeakHashMap: A weak hash map is a map implementation that uses weak references for its keys. If a key is not referenced by any other objects, it can be garbage-collected, and the corresponding entry in the map will be removed automatically.
 
+IdentityHashMap: An identity hash map is a map implementation that uses reference equality (==) instead of object equality (equals()) to compare keys.
+
