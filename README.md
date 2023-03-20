@@ -46,6 +46,7 @@ Legacy: Vector is a legacy class and is rarely used in modern Java development, 
 
 
 **Example Of ArrayList**
+
 ```java
 import java.util.ArrayList;
 
