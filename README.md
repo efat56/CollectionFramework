@@ -275,7 +275,7 @@ A linked hash map is a map implementation that maintains the insertion order of 
 ### WeakHashMap: 
 A weak hash map is a map implementation that uses weak references for its keys. If a key is not referenced by any other objects, it can be garbage-collected, and the corresponding entry in the map will be removed automatically.
 
-IdentityHashMap:
+### IdentityHashMap:
 An identity hash map is a map implementation that uses reference equality (==) instead of object equality (equals()) to compare keys.
 
 EnumMap: An enum map is a specialized map implementation designed to store enum constants as keys. It provides high performance and type safety.
