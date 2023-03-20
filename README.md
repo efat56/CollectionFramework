@@ -273,3 +273,5 @@ WeakHashMap: A weak hash map is a map implementation that uses weak references f
 
 IdentityHashMap: An identity hash map is a map implementation that uses reference equality (==) instead of object equality (equals()) to compare keys.
 
+EnumMap: An enum map is a specialized map implementation designed to store enum constants as keys. It provides high performance and type safety.
+
