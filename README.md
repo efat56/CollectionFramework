@@ -269,7 +269,7 @@ A hash map is a map implementation that uses hash codes to index and store its e
 ### TreeMap:
  A tree map is a map implementation that uses a red-black tree to store its entries. It maintains the entries in sorted order based on their natural ordering or a comparator provided during construction.
 
-LinkedHashMap:
+### LinkedHashMap:
 A linked hash map is a map implementation that maintains the insertion order of its entries in a doubly-linked list. It provides a predictable iteration order that is the order in which the entries were inserted.
 
 WeakHashMap: A weak hash map is a map implementation that uses weak references for its keys. If a key is not referenced by any other objects, it can be garbage-collected, and the corresponding entry in the map will be removed automatically.
