@@ -265,3 +265,5 @@ In Java, there are several types of maps available in the Java Collections Frame
 
 HashMap: A hash map is a map implementation that uses hash codes to index and store its entries. It provides constant-time performance for basic operations like get() and put().
 
+TreeMap: A tree map is a map implementation that uses a red-black tree to store its entries. It maintains the entries in sorted order based on their natural ordering or a comparator provided during construction.
+
