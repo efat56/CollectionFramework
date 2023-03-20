@@ -31,7 +31,6 @@ Using collections in Java allows for easier and more efficient manipulation of g
 
 ## Difference between Array List and Vector
 
-
 ***ArrayList and Vector are both classes in the Java Collection framework that provide dynamic arrays, but there are some differences between the two:***
 
 Thread-Safety: Vector is thread-safe, meaning that it is synchronized and multiple threads can access it simultaneously without causing data inconsistency. ArrayList is not thread-safe, and if multiple threads try to modify it simultaneously, it can result in data inconsistency.
