@@ -296,6 +296,8 @@ public interface MyInterface {
 }
 ```
 
+Here, the interface "MyInterface" specifies two methods: "method1()" which does not take any arguments and does not return any value, and "method2(String str)" which takes a String argument and returns an integer value.
+
 
 
 
