@@ -315,6 +315,8 @@ public class MyClass implements MyInterface {
 ```
 Here, the class "MyClass" implements the interface "MyInterface" and provides implementations for both methods specified by the interface.
 
+It is important to note that an interface only specifies the methods that a class must implement; it does not provide any implementation of those methods. Any class that implements an interface must provide its own implementation of the methods specified by the interface.
+
 
 
 
