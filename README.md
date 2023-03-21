@@ -289,5 +289,11 @@ In Java, an interface is a blueprint of a class that specifies a set of methods 
 
 To declare an interface in Java, you use the "interface" keyword followed by the name of the interface. For example:
 
+public interface MyInterface {
+   public void method1();
+   public int method2(String str);
+}
+
+
 
 
