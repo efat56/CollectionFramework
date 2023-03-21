@@ -287,5 +287,7 @@ Each of these map implementations has its own strengths and weaknesses, and the 
 
 In Java, an interface is a blueprint of a class that specifies a set of methods that a class must implement. It defines a contract between the class and its users, outlining the methods that the class must provide and the arguments and return types for each method.
 
+To declare an interface in Java, you use the "interface" keyword followed by the name of the interface. For example:
+
 
 
