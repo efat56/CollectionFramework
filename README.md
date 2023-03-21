@@ -313,6 +313,7 @@ public class MyClass implements MyInterface {
    }
 }
 ```
+Here, the class "MyClass" implements the interface "MyInterface" and provides implementations for both methods specified by the interface.
 
 
 
