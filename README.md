@@ -301,6 +301,7 @@ Here, the interface "MyInterface" specifies two methods: "method1()" which does 
 
 To implement an interface, a class must use the "implements" keyword followed by the name of the interface. For example:
 
+```java
 public class MyClass implements MyInterface {
    public void method1() {
       System.out.println("Method 1");
@@ -311,6 +312,7 @@ public class MyClass implements MyInterface {
       return str.length();
    }
 }
+```
 
 
 
