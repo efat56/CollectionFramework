@@ -1,5 +1,4 @@
 # CollectionFramework
-
 ## It's all about Collection Framework
 
 In Java, a collection is a group of objects or elements, similar to an array, but with additional functionality and flexibility.
