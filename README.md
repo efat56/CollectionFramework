@@ -325,7 +325,7 @@ It is important to note that an interface only specifies the methods that a clas
 
 - Marker Interface: This is an empty interface that is used to mark a class for some specific purpose, such as to indicate that the class is serializable or to indicate that the class is a remote object.
 
-Functional Interface: This is a special type of interface that has only one abstract method, also known as a functional method. This type of interface is used to implement lambda expressions and functional programming concepts in Java.
+- Functional Interface: This is a special type of interface that has only one abstract method, also known as a functional method. This type of interface is used to implement lambda expressions and functional programming concepts in Java.
 
 Default Interface: This is an interface that has default methods, which provide a default implementation for the interface methods. This was introduced in Java 8 to support backward compatibility when new methods are added to an existing interface.
 
