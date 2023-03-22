@@ -95,6 +95,7 @@ Hashing in Java is a technique used to map any large amount of data to a fixed-s
 ## Difference between HashMap and LinkedHashMap
 
 </n> 
+
 HashMap and LinkedHashMap are two implementations of the Map interface in Java that are used to store key-value pairs. However, there are some differences between them:
 
 **Insertion order:** LinkedHashMap maintains the order of insertion, which means the elements are retrieved in the same order in which they were inserted. HashMap does not guarantee any order.
