@@ -321,6 +321,8 @@ It is important to note that an interface only specifies the methods that a clas
 
 ### In Java, there are four types of interfaces:
 
+Normal Interface: This is a standard interface that defines a set of methods that must be implemented by any class that implements the interface.
+
 
 
 
