@@ -109,6 +109,7 @@ In summary, if you need to maintain the insertion order and efficient iteration,
 </n>
 ## Class class In Java -:
 </n> 
+
 In Java, the Class class is a special class that represents the metadata of a class at runtime. It provides a way to inspect and manipulate the properties of a class, such as its fields, methods, and constructors.
 
 Here are some of the key features and methods of the Class class in Java:
