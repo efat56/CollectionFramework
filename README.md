@@ -319,6 +319,8 @@ Here, the class "MyClass" implements the interface "MyInterface" and provides im
 
 It is important to note that an interface only specifies the methods that a class must implement; it does not provide any implementation of those methods. Any class that implements an interface must provide its own implementation of the methods specified by the interface.
 
+### In Java, there are four types of interfaces:
+
 
 
 
