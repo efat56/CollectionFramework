@@ -29,7 +29,7 @@ Each type of collection has its own set of methods and properties for adding, re
 
 Using collections in Java allows for easier and more efficient manipulation of groups of objects or elements, making it an essential part of Java programming.
 
-## Difference between Array List and Vector
+## Difference Between Array List and Vector
 
 ***ArrayList and Vector are both classes in the Java Collection framework that provide dynamic arrays, but there are some differences between the two:***
 
