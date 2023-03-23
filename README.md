@@ -330,6 +330,7 @@ It is important to note that an interface only specifies the methods that a clas
 
 - Default Interface: This is an interface that has default methods, which provide a default implementation for the interface methods. This was introduced in Java 8 to support backward compatibility when new methods are added to an existing interface.
 
+## Types Of Inheritance In Java -:
 
 
 
