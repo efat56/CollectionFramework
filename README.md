@@ -332,6 +332,8 @@ It is important to note that an interface only specifies the methods that a clas
 
 ## Types Of Inheritance In Java -:
 
+Inheritance is one of the fundamental concepts in object-oriented programming, which allows one class to inherit the properties and behavior of another class. In Java, there are five types of inheritance:
+
 
 
 
