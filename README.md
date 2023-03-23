@@ -1,4 +1,4 @@
-# CollectionFramework
+# Collection Framework
 
 ## It's all about Collection Framework And Some Core Java Concepts...
 
