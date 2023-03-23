@@ -336,7 +336,7 @@ Inheritance is one of the fundamental concepts in object-oriented programming, w
 
 - **Single Inheritance:** In single inheritance, a subclass extends a single superclass. That means, a subclass inherits the properties and behavior of only one superclass.
 
-Multilevel Inheritance: In multilevel inheritance, a subclass extends a superclass, which in turn extends another superclass. That means, a subclass inherits the properties and behavior of both the superclasses in the hierarchy.
+- **Multilevel Inheritance:** In multilevel inheritance, a subclass extends a superclass, which in turn extends another superclass. That means, a subclass inherits the properties and behavior of both the superclasses in the hierarchy.
 
 Hierarchical Inheritance: In hierarchical inheritance, multiple subclasses extend a single superclass. That means, multiple subclasses inherit the properties and behavior of a single superclass.
 
