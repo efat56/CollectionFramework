@@ -216,6 +216,7 @@ public class LinkedHashSetExample {
       System.out.println("LinkedHashSet: " + set);
    }
 }
+
 ```
 
 
@@ -294,10 +295,12 @@ To declare an interface in Java, you use the "interface" keyword followed by the
 
 
 ```java
+
 public interface MyInterface {
    public void method1();
    public int method2(String str);
 }
+
 ```
 
 Here, the interface "MyInterface" specifies two methods: "method1()" which does not take any arguments and does not return any value, and "method2(String str)" which takes a String argument and returns an integer value.
