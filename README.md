@@ -334,6 +334,17 @@ It is important to note that an interface only specifies the methods that a clas
 
 Inheritance is one of the fundamental concepts in object-oriented programming, which allows one class to inherit the properties and behavior of another class. In Java, there are five types of inheritance:
 
+Single Inheritance: In single inheritance, a subclass extends a single superclass. That means, a subclass inherits the properties and behavior of only one superclass.
+
+Multilevel Inheritance: In multilevel inheritance, a subclass extends a superclass, which in turn extends another superclass. That means, a subclass inherits the properties and behavior of both the superclasses in the hierarchy.
+
+Hierarchical Inheritance: In hierarchical inheritance, multiple subclasses extend a single superclass. That means, multiple subclasses inherit the properties and behavior of a single superclass.
+
+Multiple Inheritance (through Interfaces): Multiple inheritance is not supported in Java through classes, but it can be achieved through interfaces. A class can implement multiple interfaces, and in turn, inherit properties and behavior from all of them.
+
+Hybrid Inheritance: Hybrid inheritance is a combination of any of the above types of inheritance. For example, a class can have a combination of single, multilevel, and hierarchical inheritance, or it can have both class and interface inheritance.
+
+In Java, inheritance is implemented using the "extends" keyword in the class declaration.
 
 
 
