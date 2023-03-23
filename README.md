@@ -346,6 +346,12 @@ Inheritance is one of the fundamental concepts in object-oriented programming, w
 
 In Java, inheritance is implemented using the "extends" keyword in the class declaration.
 
+```java
+class ChildClass extends ParentClass {
+    // class body
+}
+```
+
 
 
 
