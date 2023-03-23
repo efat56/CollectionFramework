@@ -342,7 +342,7 @@ Inheritance is one of the fundamental concepts in object-oriented programming, w
 
 - **Multiple Inheritance (through Interfaces):** Multiple inheritance is not supported in Java through classes, but it can be achieved through interfaces. A class can implement multiple interfaces, and in turn, inherit properties and behavior from all of them.
 
-Hybrid Inheritance: Hybrid inheritance is a combination of any of the above types of inheritance. For example, a class can have a combination of single, multilevel, and hierarchical inheritance, or it can have both class and interface inheritance.
+- **Hybrid Inheritance:** Hybrid inheritance is a combination of any of the above types of inheritance. For example, a class can have a combination of single, multilevel, and hierarchical inheritance, or it can have both class and interface inheritance.
 
 In Java, inheritance is implemented using the "extends" keyword in the class declaration.
 
