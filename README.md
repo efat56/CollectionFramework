@@ -341,7 +341,7 @@ Inheritance is one of the fundamental concepts in object-oriented programming, w
 
 - **Multilevel Inheritance:** In multilevel inheritance, a subclass extends a superclass, which in turn extends another superclass. That means, a subclass inherits the properties and behavior of both the superclasses in the hierarchy.
 
-- **Hierarchical Inheritance:** In hierarchical inheritance, multiple subclasses extend a single superclass. That means, multiple subclasses inherit the properties and behavior of a single superclass.
+- **Hierarchical Inheritance:**  In hierarchical inheritance, multiple subclasses extend a single superclass. That means, multiple subclasses inherit the properties and behavior of a single superclass.
 
 - **Multiple Inheritance (through Interfaces):** Multiple inheritance is not supported in Java through classes, but it can be achieved through interfaces. A class can implement multiple interfaces, and in turn, inherit properties and behavior from all of them.
 
