@@ -9,7 +9,7 @@ Collections are part of the Java Collections Framework, which provides a set of 
 
 - List - An ordered collection of elements where duplicates are allowed.
 
-- Set - An unordered collection of unique elements.
+- Set -  An unordered collection of unique elements.
 
 - Queue - An ordered collection of elements designed to hold elements prior to processing.
 
