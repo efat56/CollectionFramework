@@ -356,6 +356,35 @@ class ChildClass extends ParentClass {
 ```
 ## Constructor Overloading and Overriding -:
 
+Constructor overloading and overriding are two different concepts in Java that are used to create and initialize objects.
+
+Constructor Overloading:
+Constructor overloading refers to defining multiple constructors in a class with different parameters. It is used to create objects of a class with different initial states. In constructor overloading, the constructors have the same name but different signatures (different parameters).
+
+For Example -:
+
+```java
+public class Employee {
+  private String name;
+  private int id;
+  
+  public Employee() {
+    this.name = "";
+    this.id = 0;
+  }
+  
+  public Employee(String name, int id) {
+    this.name = name;
+    this.id = id;
+  }
+  
+  public Employee(String name) {
+    this.name = name;
+    this.id = 0;
+  }
+}
+```
+
 
 
 
