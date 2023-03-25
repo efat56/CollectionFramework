@@ -406,6 +406,7 @@ public class Dog extends Animal {
 }
 
 ```
+In the above example, the class Dog extends the class Animal. The constructor of Dog calls the constructor of Animal using the super() keyword before executing its own code. This is not constructor overriding, but rather constructor chaining.
 
 
 
