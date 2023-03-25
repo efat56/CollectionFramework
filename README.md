@@ -391,6 +391,22 @@ Constructor overriding is not possible in Java. Unlike other methods, constructo
 
 For example:
 
+```java
+public class Animal {
+  public Animal() {
+    System.out.println("Animal constructor");
+  }
+}
+
+public class Dog extends Animal {
+  public Dog() {
+    super();
+    System.out.println("Dog constructor");
+  }
+}
+
+```
+
 
 
 
